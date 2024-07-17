@@ -92,6 +92,6 @@ Use Insomnia Core or any API testing tool to test the following routes:
 
 # Walkthrough Video
 
-[Link Video]()
+[Link Video](https://drive.google.com/file/d/1dPmUEJfywYMQMzKCXMRLoMFEBg-SwwVb/view)
 
    

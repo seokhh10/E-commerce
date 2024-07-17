@@ -34,9 +34,9 @@ Internet retail, also known as e-commerce, plays a significant role within the e
 
 3. Create a .env file in the root directory and add your PostgreSQL credentials:
    ```sh
-   DB_NAME=your_database_name
-   DB_USER=your_postgresql_username
-   DB_PASSWORD=your_postgresql_password
+   DB_NAME='ecommerce_db'
+   DB_USER='postgres'
+   DB_PASSWORD='your_postgresql_password'
 
 4. Create the database using the schema file:
    ```sh

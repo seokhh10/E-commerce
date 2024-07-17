@@ -44,7 +44,7 @@ router.get('/:id', (req, res) => {
     }
     res.json(cateData);
   })
-  .catch.apply(err => {
+  .catch(err => {
     console.log(err);
     res.status(500).json(err)
   });
